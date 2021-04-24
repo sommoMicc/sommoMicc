@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I like to call myself a __geek"__. 
+I like to call myself a __geek__. 
 
 Regarding information technology, I love to try always new things. 
 I am passionate about web and mobile development, but recently I have also approached the field of artificial intelligence / machine learning.
