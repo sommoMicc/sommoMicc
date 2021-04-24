@@ -30,3 +30,5 @@ I like to practice sports to keep myself fit and healthy.
 📫 How to reach me: send me an [email](mailto:mikitg.michele@gmail.com)
 
 ⚡ Fun fact: I really like chocolate
+
+💬 You can find more details about my experience on my [CV](https://sommomicc.github.io/markdown-cv/)
